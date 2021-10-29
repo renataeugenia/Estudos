@@ -1,2 +1,2 @@
 # Estudos
- primeiros passos na programção
+ primeiros passos na programação
